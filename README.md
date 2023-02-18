@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NeterAlex
 - 👀 I’m interested in Coding, music, novel and gaming.
-- 🌱 I’m currently learning：C# / UE
+- 🌱 I’m currently learning：C# / Blazor / Web
 - 📫 How to reach me：Email- neteralex@outlook.com
 
 <!---
