@@ -2,7 +2,7 @@
 
 I'm `Rikukaze`!  
 
-🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku)
+🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku), CQS and SDI(both private project)
 
 🌱 I’m currently learning：.NET / Golang / React / ML
 
