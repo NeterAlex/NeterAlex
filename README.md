@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm `Rikukaze`!  
-A CS student learning full-stack development from China.
 
 🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku)
 
