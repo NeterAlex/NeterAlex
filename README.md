@@ -8,7 +8,7 @@ I'm `Rikukaze`!
 
 📫 Reach me: **neteralex@outlook.com** (May not respond in a timely manner)
 
-⚡ Fun fact: Linguistics, Piano, Stringed Instruments and Cooking
+⚡ Fun fact: Linguistics, Piano, Stringed Instruments
 
 ***
 
