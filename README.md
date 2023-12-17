@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm `Rikukaze`!  
+I'm `Leon`!  
 
 🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku), CQS and SDI(both private project)
 
