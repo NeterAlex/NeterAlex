@@ -13,8 +13,8 @@ I'm `Leon`!
 ***
 ### Status
 
-| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&hide_border=true)](https://github.com/neteralex/github-readme-stats) |
-| ---------------- | ---------------- |
+| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=neteralex&theme=transparent&hide_border=true&card_width=330)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&hide_border=true)](https://github.com/neteralex/github-readme-stats) |
+| ---------------- | ---------------- | ---------------- |
 
 ***
 
