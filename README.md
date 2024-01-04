@@ -1,20 +1,31 @@
-### Hi there 👋
+### Hi there 
 
-I'm `Leon`!  
+<table style="margin-left: auto; margin-right: auto; border: none;">
+        <tr>
+            <td>
+👋 I'm Leon!
 
 🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku), CQS and SDI(both private project)
 
 🌱 I’m currently learning：.NET / Kotlin / React / ML
 
-📫 Reach me: **neteralex@outlook.com** (May not respond in a timely manner)
+📫 Reach me: **neteralex@outlook.com** (5月not respond in a timely manner)
 
 ⚡ Fun fact: Linguistics, Piano, Stringed Instruments
+            </td>
+            <td>
+                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&hide_border=true)](https://github.com/neteralex/github-readme-stats) 
+            </td>
+        </tr>
+    </table>
+
+
 
 ***
 ### Status
 
-| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=neteralex&theme=transparent&hide_border=true&card_width=330)](https://git.io/streak-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&hide_border=true)](https://github.com/neteralex/github-readme-stats) |
-| ---------------- | ---------------- | ---------------- |
+| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=neteralex&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
+| ---------------- | ---------------- |
 
 ***
 
