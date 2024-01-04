@@ -11,6 +11,12 @@ I'm `Leon`!
 ⚡ Fun fact: Linguistics, Piano, Stringed Instruments
 
 ***
+### Status
+
+| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact)](https://github.com/neteralex/github-readme-stats) |
+| ---------------- | ---------------- |
+
+***
 
 ### My Techstack
 #### Lang
@@ -48,12 +54,4 @@ I'm `Leon`!
 
 ***
 
-### Status
 
-And here are the languages I always use:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact)](https://github.com/neteralex/github-readme-stats)
-
-Here is my GitHub stats:
-
-![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent)
