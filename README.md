@@ -3,7 +3,8 @@
 <table style="margin-left: auto; margin-right: auto; border: none;">
         <tr>
             <td>
-👋 I'm Leon!
+                    
+👋 I'm Neter! <br>
 
 🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku), CQS and SDI(both private project)
 
@@ -21,7 +22,6 @@
 
 
 
-***
 ### Status
 
 | ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=neteralex&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
