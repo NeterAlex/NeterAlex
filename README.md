@@ -10,21 +10,21 @@
 
 🌱 I’m currently learning：.NET / Kotlin / React / ML
 
-📫 Reach me: **neteralex@outlook.com** (5月not respond in a timely manner)
+📫 Reach me: **neteralex@outlook.com** (may not respond in a timely manner)
 
 ⚡ Fun fact: Linguistics, Piano, Stringed Instruments
             </td>
             <td>
-                 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&hide_border=true)](https://github.com/neteralex/github-readme-stats) 
+                 ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&hide_rank=true&count_private=true&hide_border=true) 
             </td>
         </tr>
     </table>
 
 
 
-### Status
+### Stats
 
-| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=NeterAlex&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&langs_count=8&hide_border=true)](https://github.com/neteralex/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=NeterAlex&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
 | ---------------- | ---------------- |
 
 ***
