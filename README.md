@@ -24,7 +24,7 @@
 
 ### Status
 
-| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=neteralex&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
+| ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&count_private=true&include_all_commits=true&hide_border=true) | [![GitHub Streak](https://streak-stats.demolab.com?user=NeterAlex&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
 | ---------------- | ---------------- |
 
 ***
