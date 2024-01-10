@@ -15,7 +15,7 @@
 ⚡ Fun fact: Linguistics, Piano, Stringed Instruments
             </td>
             <td>
-                 ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&theme=transparent&hide_rank=true&count_private=true&hide_border=true) 
+                 ![NeterAlex's GitHub stats](https://github-readme-stats.vercel.app/api?username=neteralex&show_icons=true&rank_icon=github&theme=transparent&count_private=true&hide_border=true) 
             </td>
         </tr>
     </table>
@@ -24,7 +24,7 @@
 
 ### Stats
 
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&langs_count=8&hide_border=true)](https://github.com/neteralex/github-readme-stats) | [![GitHub Streak](https://streak-stats.demolab.com?user=NeterAlex&theme=transparent&hide_border=true)](https://git.io/streak-stats) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeterAlex&theme=github)  | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&langs_count=8&hide_border=true)](https://github.com/neteralex/github-readme-stats) |
 | ---------------- | ---------------- |
 
 ***
