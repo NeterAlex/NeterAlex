@@ -24,7 +24,7 @@
 
 ### Stats
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeterAlex&theme=github)  |  ![](https://raw.githubusercontent.com/NeterAlex/github_stats/master/generated/overview.svg#gh-light-mode-only) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeterAlex&theme=github)  |  ![NeterAlex's GitHub stats](https://github-readme-neteralex.vercel.app/api?username=neteralex&show_icons=true&hide_rank=true&theme=transparent&count_private=true&hide_border=true) |
 | ---------------- | ---------------- |
 
 ***
