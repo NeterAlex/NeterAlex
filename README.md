@@ -15,7 +15,7 @@
 ⚡ Fun fact: Linguistics, Piano, Stringed Instruments
             </td>
             <td>
-                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&langs_count=8&hide_border=true)](https://github.com/neteralex/github-readme-stats) 
+                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neteralex&layout=compact&langs_count=10&hide_border=true)](https://github.com/neteralex/github-readme-stats) 
             </td>
         </tr>
     </table>
