@@ -6,9 +6,9 @@
                     
 👋 I'm Neter! <br>
 
-🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku), CQS and SDI(both private project)
+🔭 I’m currently working on [Riku](https://github.com/NeterAlex/Riku), CQS and SDI(both private projects)
 
-🌱 I’m currently learning：.NET / Kotlin / React / ML
+🌱focusing on & learning：.NET / Kotlin / React / ML
 
 📫 Reach me: **neteralex@outlook.com** (may not respond in a timely manner)
 
