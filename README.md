@@ -16,8 +16,8 @@
          <img src="https://raw.githubusercontent.com/NeterAlex/github_stats/master/generated/languages.svg" />
 </p>
 <p align="center">
-        <img align="center" width="450" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,csharp,kotlin,dart,go,postgresql,mysql,markdown&includeNames=true" />
-        <img align="center" width="450" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,express,electron,flutter,tailwind,dotnetcore,dotnet&includeNames=true" />
-        <img align="center" width="450" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,redis,nginx,jupyter,gradle,prettier&includeNames=true" />
-        <img align="center" width="450" src="https://github-widgetbox.vercel.app/api/skills?libraries=babel,tensorflow&includeNames=true" />
+        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,csharp,kotlin,dart,go,postgresql,mysql,markdown&includeNames=true" />
+        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,nuxt,next,django,express,electron,flutter,tailwind,dotnetcore,dotnet&includeNames=true" />
+        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,redis,nginx,jupyter,gradle,prettier&includeNames=true" />
+        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?libraries=babel,tensorflow&includeNames=true" />
 </p>
