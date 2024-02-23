@@ -6,7 +6,7 @@
        🧭 Focusing on learning <code>.NET / Kotlin / React / ML</code> <br><br>
         🔭 Working on <a href="https://github.com/NeterAlex/Riku">Riku</a>, CQS and SDI(both private projects) <br><br>
         📫Reach me: <a href="neteralex@outlook.com">Email</a> (may not respond in a timely manner) <br><br>
-        ⚡Fun fact: Linguistics, Piano, Stringed Instruments
+        ⚡Fun fact: Linguistics, Piano, Stringed Instruments <br>
 </p>
 <p align="center">
         <img align="center" height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeterAlex&theme=github" />
