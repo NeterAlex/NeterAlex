@@ -16,8 +16,8 @@
          <img src="https://raw.githubusercontent.com/NeterAlex/github_stats/master/generated/languages.svg" />
 </p>
 <p align="center">
-        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?languages=ts,java,python,html,css,csharp,kotlin,dart,go&includeNames=true" />
-        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,django,electron,flutter,tailwind,dotnetcore&includeNames=true" />
+        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?languages=ts,java,python,csharp,kotlin,dart,go&includeNames=true" />
+        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,django,flutter,tailwind,dotnetcore&includeNames=true" />
         <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,redis,nginx,gradle,prettier&includeNames=true" />
         <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&includeNames=true" />
 </p>
