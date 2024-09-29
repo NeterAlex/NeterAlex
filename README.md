@@ -9,15 +9,9 @@
         ⚡Fun fact: Linguistics, Piano, Violin 和 Erhu <br>
 </p>
 <p align="center">
-        <img align="center" height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeterAlex&theme=github" />
-</p>
-<p align="center">
         <img  src="https://github-readme-neteralex.vercel.app/api?username=neteralex&show_icons=true&hide_rank=true&theme=transparent&count_private=true&hide_border=true"/>
          <img src="https://raw.githubusercontent.com/NeterAlex/github_stats/master/generated/languages.svg" />
 </p>
 <p align="center">
-        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?languages=ts,java,python,csharp,kotlin,dart,go&includeNames=true" />
-        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,next,django,flutter,tailwind,dotnetcore&includeNames=true" />
-        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?tools=git,docker,redis,nginx,gradle,prettier&includeNames=true" />
-        <img align="center" width="400" src="https://github-widgetbox.vercel.app/api/skills?libraries=tensorflow&includeNames=true" />
+        <img align="center" height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NeterAlex&theme=github" />
 </p>
