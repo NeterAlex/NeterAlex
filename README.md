@@ -18,6 +18,5 @@
         <img src="https://github-readme-neteralex.vercel.app/api?username=neteralex&show_icons=true&hide_rank=true&theme=transparent&count_private=true&hide_border=true"/>
         <img src="https://raw.githubusercontent.com/NeterAlex/github_stats/master/generated/languages.svg" />
 </p>
-<br/>
 
 
